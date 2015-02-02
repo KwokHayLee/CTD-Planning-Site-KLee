@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	left:8px;
+	top:18px;
+	width:205px;
+	height:87px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:10px;
+	top:125px;
+	width:338px;
+	height:38px;
+	z-index:2;
+}
+#apDiv3 {
+	position:absolute;
+	left:660px;
+	top:115px;
+	width:96px;
+	height:40px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:768px;
+	top:112px;
+	width:92px;
+	height:43px;
+	z-index:4;
+}
+#apDiv5 {
+	position:absolute;
+	left:11px;
+	top:194px;
+	width:855px;
+	height:443px;
+	z-index:5;
+}
+</style>
+</head>
+
+<body>
+<div id="apDiv1"></div>
+<div id="apDiv2"></div>
+<div id="apDiv3"></div>
+<div id="apDiv4"></div>
+<div id="apDiv5"></div>
+</body>
+</html>
